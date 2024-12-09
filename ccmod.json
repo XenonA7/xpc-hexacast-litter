@@ -1,6 +1,6 @@
 {
 	"id": "xpc-litter",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"title": {
 		"en_US": "XPC - Hexacast Litter"
 	},
@@ -8,12 +8,12 @@
 		"en_US": "Makes Hexacast spellcards linger on the ground for a long time \\c[3](visual only)\\c[0]"
 	},
 	"repository": "https://github.com/XenonA7/xmc-hexacast-litter",
-	"tags": ["cosmetic"],
+	"tags": ["cosmetic", "fun"],
 	"authors": "XenonA7",
 	"icons": {
 		"24": "icon.png"
 	},
 	"dependencies": {
-		"xenons-playable-classes": ">=2.0.0"
+		"xenons-playable-classes": ">=2.7.0"
 	}
 }

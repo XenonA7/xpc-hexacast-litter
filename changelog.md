@@ -1,3 +1,8 @@
+2.1.0 (12/09/2024)
+- Updated ccmod.json tags
+- Support for XPC 2.7.0 and higher
+- Added shadowflame-alts.json.patch
+
 2.0.0 (08/23/2024)
 - Support for XPC 2.0.0 and higher
 - Support for xmc-hexacast discontinued
