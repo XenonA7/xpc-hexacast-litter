@@ -1,3 +1,6 @@
+2.1.1 (06/09/2025)
+- Support for ball-shock.stasisStormCardDeath (XPC 2.13.0)
+
 2.1.0 (12/09/2024)
 - Updated ccmod.json tags
 - Support for XPC 2.7.0 and higher
