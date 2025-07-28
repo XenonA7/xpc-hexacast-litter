@@ -37,6 +37,44 @@
         "type": "DEBRIS_CIRCLE",
         "anim": "HEXA_CARD_NEUTRAL"
       }
+    ],
+    "neutralCardTripleDeath": [
+      {
+        "numParticles": 3,
+        "duration": 0,
+        "centralAngle": 1,
+        "startDist": 0,
+        "random": false,
+        "zBounciness": 0,
+        "collision": true,
+        "angleVary": 1,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "minSpeed": 15,
+        "maxSpeed": 35,
+        "minZSpeed": 60,
+        "maxZSpeed": 80,
+        "minZVel": 20,
+        "pAlpha": {
+          "init": 0.8,
+          "end": {
+            "value": 0,
+            "time": 0.5
+          }
+        },
+        "pScale": {
+          "init": {
+            "x": 0.8,
+            "y": 0.8
+          }
+        },
+        "particleDuration": 600,
+        "type": "DEBRIS_CIRCLE",
+        "anim": "HEXA_CARD_NEUTRAL"
+      }
     ]
   }
 }

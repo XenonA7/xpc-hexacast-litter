@@ -1,3 +1,6 @@
+2.1.2 (07/27/2025)
+- Support for specials.neutral.neutralCardTripleDeath (XPC 2.18.0)
+
 2.1.1 (06/09/2025)
 - Support for ball-shock.stasisStormCardDeath (XPC 2.13.0)
 
