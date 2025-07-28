@@ -1,3 +1,6 @@
+2.1.3 (07/27/2025)
+- Fixed repository link in ccmod.json
+
 2.1.2 (07/27/2025)
 - Support for specials.neutral.neutralCardTripleDeath (XPC 2.18.0)
 

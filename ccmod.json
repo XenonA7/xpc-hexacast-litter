@@ -1,13 +1,13 @@
 {
 	"id": "xpc-litter",
-	"version": "2.1.2",
+	"version": "2.1.3",
 	"title": {
 		"en_US": "XPC - Hexacast Litter"
 	},
 	"description": {
 		"en_US": "Makes Hexacast spellcards linger on the ground for a long time \\c[3](visual only)\\c[0]"
 	},
-	"repository": "https://github.com/XenonA7/xmc-hexacast-litter",
+	"repository": "https://github.com/XenonA7/xpc-hexacast-litter",
 	"tags": ["cosmetic", "fun"],
 	"authors": "XenonA7",
 	"icons": {
