@@ -1,3 +1,10 @@
+2.1.4 (10/04/2025)
+- Minor tweak to icon.png
+- Support for Embrittlement effects (XPC 2.24.0)
+  * ball-cold.coldCardWallDeath
+  * ball-cold.coldCardAirDeath
+  * ball-coldCardDeathFar
+
 2.1.3 (07/27/2025)
 - Fixed repository link in ccmod.json
 
