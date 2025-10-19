@@ -1,3 +1,7 @@
+2.1.6 (10/19/2025)
+- Updated explosiveHeatDeckDeath zSpeed settings to match the final XPC version
+- Included shadowflame-alts versions of heatCardDeckDeath and explosiveHeatDeckDeath
+
 2.1.5 (10/18/2025)
 - Support for Faj'ro Flush effects (XPC 2.25.0)
   * specials.heat.heatCardDeckDeath

@@ -131,8 +131,8 @@
         },
         "minSpeed": 60,
         "maxSpeed": 150,
-        "minZSpeed": 300,
-        "maxZSpeed": 500,
+        "minZSpeed": 250,
+        "maxZSpeed": 350,
         "minZVel": 40,
         "pAlpha": {
           "init": 0.8,
