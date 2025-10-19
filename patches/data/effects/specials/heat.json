@@ -75,6 +75,82 @@
         "type": "DEBRIS_CIRCLE",
         "anim": "HEXA_CARD_HEAT"
       }
+    ],
+    "heatCardDeckDeath": [
+      {
+        "numParticles": 7,
+        "duration": 0.2,
+        "centralAngle": 1,
+        "startDist": 4,
+        "random": false,
+        "zBounciness": 0,
+        "collision": true,
+        "angleVary": 1,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "minSpeed": 15,
+        "maxSpeed": 45,
+        "minZSpeed": 60,
+        "maxZSpeed": 90,
+        "minZVel": 20,
+        "pAlpha": {
+          "init": 0.8,
+          "end": {
+            "value": 0,
+            "time": 0.5
+          }
+        },
+        "pScale": {
+          "init": {
+            "x": 0.8,
+            "y": 0.8
+          }
+        },
+        "particleDuration": 600,
+        "type": "DEBRIS_CIRCLE",
+        "anim": "HEXA_CARD_HEAT"
+      }
+    ],
+    "explosiveHeatDeckDeath": [
+      {
+        "numParticles": 7,
+        "duration": 0.2,
+        "centralAngle": 1,
+        "startDist": 8,
+        "random": false,
+        "zBounciness": 0,
+        "collision": true,
+        "angleVary": 1,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "minSpeed": 60,
+        "maxSpeed": 150,
+        "minZSpeed": 300,
+        "maxZSpeed": 500,
+        "minZVel": 40,
+        "pAlpha": {
+          "init": 0.8,
+          "end": {
+            "value": 0,
+            "time": 0.5
+          }
+        },
+        "pScale": {
+          "init": {
+            "x": 0.8,
+            "y": 0.8
+          }
+        },
+        "particleDuration": 600,
+        "type": "DEBRIS_CIRCLE",
+        "anim": "HEXA_CARD_HEAT"
+      }
     ]
   }
 }

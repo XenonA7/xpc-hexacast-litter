@@ -1,3 +1,8 @@
+2.1.5 (10/18/2025)
+- Support for Faj'ro Flush effects (XPC 2.25.0)
+  * specials.heat.heatCardDeckDeath
+  * specials.heat.explosiveHeatDeckDeath
+
 2.1.4 (10/04/2025)
 - Minor tweak to icon.png
 - Support for Embrittlement effects (XPC 2.24.0)
