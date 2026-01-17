@@ -1,3 +1,8 @@
+2.1.7 (01/17/2025)
+- Support for Furious Dissonance effects (XPC 3.0.0)
+  * ball-wave.dissonanceCardAirDeath
+  * ball-wave.dissonanceCardWallDeath
+
 2.1.6 (10/19/2025)
 - Updated explosiveHeatDeckDeath zSpeed settings to match the final XPC version
 - Included shadowflame-alts versions of heatCardDeckDeath and explosiveHeatDeckDeath
