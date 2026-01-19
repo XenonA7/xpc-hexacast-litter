@@ -1,3 +1,8 @@
+2.1.8 (01/17/2025)
+- Support for new dissonanceCard2 effects (XPC 3.0.1)
+  * ball-wave.dissonanceCard2AirDeath
+  * ball-wave.dissonanceCard2WallDeath
+
 2.1.7 (01/17/2025)
 - Support for Furious Dissonance effects (XPC 3.0.0)
   * ball-wave.dissonanceCardAirDeath
